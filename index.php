@@ -16,7 +16,7 @@ if (isset($_POST['toggle_submit'])) {
       <meta charSet="utf-8"/>
       <meta http-equiv="x-ua-compatible" content="ie=edge"/>
       <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
-		<meta http-equiv='refresh' content='3'>
+		<meta http-equiv='refresh' content='5'>
       <title data-react-helmet="true">CrowsNest Dashboard</title>
       <link rel="stylesheet" href="css/brands.css" />
       <link rel="stylesheet" href="css/style.css" />
