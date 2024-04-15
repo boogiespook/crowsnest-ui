@@ -1,15 +1,3 @@
-<?php
-// Start the session
-session_start();
-if (!isset($_SESSION['toggle'])) {
-	$_SESSION['toggle'] = false;
-}
-
-if (isset($_POST['toggle_submit'])) {
-	$_SESSION['toggle'] = !$_SESSION['toggle'];
-}
-
-?>
 <!DOCTYPE html>
   <html lang="en-us" class="pf-theme-dark">
     <head>
